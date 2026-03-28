@@ -1,0 +1,12 @@
+C:\ALURA\api-logs\logs\src\main\java\br\com\alura\logs\exceptions\BusinessException.java
+C:\ALURA\api-logs\logs\src\main\java\br\com\alura\logs\controller\CursoController.java
+C:\ALURA\api-logs\logs\src\main\java\br\com\alura\logs\CursoApplication.java
+C:\ALURA\api-logs\logs\src\main\java\br\com\alura\logs\exceptions\InternalErrorException.java
+C:\ALURA\api-logs\logs\src\main\java\br\com\alura\logs\service\CursoService.java
+C:\ALURA\api-logs\logs\src\main\java\br\com\alura\logs\config\TimestampConfig.java
+C:\ALURA\api-logs\logs\src\main\java\br\com\alura\logs\dto\CursoDto.java
+C:\ALURA\api-logs\logs\src\main\java\br\com\alura\logs\dto\LogsErrorDto.java
+C:\ALURA\api-logs\logs\src\main\java\br\com\alura\logs\handlers\LogsHandlers.java
+C:\ALURA\api-logs\logs\src\main\java\br\com\alura\logs\repository\CursoRepository.java
+C:\ALURA\api-logs\logs\src\main\java\br\com\alura\logs\exceptions\NotFoundException.java
+C:\ALURA\api-logs\logs\src\main\java\br\com\alura\logs\model\CursoModel.java

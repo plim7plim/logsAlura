@@ -1,0 +1,12 @@
+br\com\alura\logs\config\TimestampConfig.class
+br\com\alura\logs\exceptions\InternalErrorException.class
+br\com\alura\logs\dto\LogsErrorDto.class
+br\com\alura\logs\exceptions\NotFoundException.class
+br\com\alura\logs\dto\CursoDto.class
+br\com\alura\logs\service\CursoService.class
+br\com\alura\logs\handlers\LogsHandlers.class
+br\com\alura\logs\controller\CursoController.class
+br\com\alura\logs\CursoApplication.class
+br\com\alura\logs\model\CursoModel.class
+br\com\alura\logs\repository\CursoRepository.class
+br\com\alura\logs\exceptions\BusinessException.class
